@@ -1,4 +1,5 @@
-# Alotis
+## Alotis
 
+Alotis is a day planner app created with flexible schedules in mind.
 
-This is some test text
+Contact us: umadlabs@gmail.com
