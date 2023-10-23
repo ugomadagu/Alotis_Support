@@ -6,7 +6,7 @@ Alotis is a day planner app created with flexible schedules in mind.
 
 ## Privacy
 
-Alotis does not collect any data uasge or perosnal data.
+Alotis does not collect any data.
 
 ## Contact Information
 
