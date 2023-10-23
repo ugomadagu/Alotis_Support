@@ -1,4 +1,6 @@
-## About Alotis
+# Alotis
+
+## About
 
 Alotis is a day planner app created with flexible schedules in mind.
 
